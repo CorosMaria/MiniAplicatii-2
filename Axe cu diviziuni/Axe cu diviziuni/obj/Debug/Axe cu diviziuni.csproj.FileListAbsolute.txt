@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Axe cu diviziuni\Axe cu diviziuni\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Axe cu diviziuni\Axe cu diviziuni\obj\Debug\Axe_cu_diviziuni.Form1.resources
+D:\MARIA\Programare\Aplicatii\Axe cu diviziuni\Axe cu diviziuni\obj\Debug\Axe_cu_diviziuni.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Axe cu diviziuni\Axe cu diviziuni\obj\Debug\Axe cu diviziuni.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Axe cu diviziuni\Axe cu diviziuni\bin\Debug\Axe cu diviziuni.exe
+D:\MARIA\Programare\Aplicatii\Axe cu diviziuni\Axe cu diviziuni\bin\Debug\Axe cu diviziuni.pdb
+D:\MARIA\Programare\Aplicatii\Axe cu diviziuni\Axe cu diviziuni\obj\Debug\Axe cu diviziuni.exe
+D:\MARIA\Programare\Aplicatii\Axe cu diviziuni\Axe cu diviziuni\obj\Debug\Axe cu diviziuni.pdb
